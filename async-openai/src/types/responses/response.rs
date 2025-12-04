@@ -1514,6 +1514,7 @@ pub struct RefusalContent {
 #[derive(Debug, Serialize, Deserialize, Clone, PartialEq)]
 pub struct OutputMessage {
     /// The content of the output message.
+    #[serde(default)]
     pub content: Vec<OutputMessageContent>,
     /// The unique ID of the output message.
     pub id: String,
