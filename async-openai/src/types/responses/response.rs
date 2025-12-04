@@ -2342,7 +2342,6 @@ pub struct MCPListTools {
 #[derive(Debug, Serialize, Deserialize, Clone, PartialEq)]
 pub struct MCPApprovalRequest {
     /// JSON string of arguments for the tool.
-    #[serde(default)]
     pub arguments: String,
     /// The unique ID of the approval request.
     pub id: String,
