@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="EMPTY_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/async-openai-macros/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-openai/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/async-openai/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/assistants-code-interpreter/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/assistants-file-search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/assistants-func-call-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/assistants/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/audio-speech-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/audio-speech/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/audio-transcribe/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/audio-translate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/azure-openai-service/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/borrow-instead-of-move/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/bring-your-own-type/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/chat-store/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/chat-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/chat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/chatkit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/completions-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/completions-web-search/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/completions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/containers/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/conversations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/create-image-variation/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/embeddings/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/gemini-openai-compatibility/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/image-edit-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/image-edit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/image-gen-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/image-generate-b64-json/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/image-generate/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/in-memory-file/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/models/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/moderations/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/ollama-chat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/realtime/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/responses-function-call/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/responses-images-and-vision/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/responses-retrieve-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/responses-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/responses-structured-outputs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/responses/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/structured-outputs-schemars/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/structured-outputs/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/tool-call-stream/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/tool-call/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/usage/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/vector-store-retrieval/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/video/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/vision-chat/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/examples/webhooks/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
