@@ -1576,6 +1576,7 @@ pub struct ReasoningItem {
     /// Unique identifier of the reasoning content.
     pub id: String,
     /// Reasoning summary content.
+    #[serde(default)]
     pub summary: Vec<SummaryPart>,
     /// Reasoning text content.
     #[serde(skip_serializing_if = "Option::is_none")]
